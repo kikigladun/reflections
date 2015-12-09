@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git is aware of that file and you now have to option to start tracking files within that
+repository.
+why? because you want to track its versions and changes for some reason.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is an in between area for things about to be committed. their not yet in the
+repository, and no longer directly connected to working directory.
