@@ -1,0 +1,2 @@
+so, this is my first reflection. git is weird and non UI-ish at all.
+why not make a nice interface and skip all the nonsensical commands? what are we, in the 70s?
